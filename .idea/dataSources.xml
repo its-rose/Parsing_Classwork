@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="orders" uuid="2ff3c798-c4f3-4804-8bef-563ac2bd4a33">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/../pythonProject/Classwork/orders.db</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="orders [2]" uuid="3b8771bc-3cc3-44b9-9eb9-41538e3adc53">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/../pythonProject/Database SQL/orders.db</jdbc-url>
+    </data-source>
+  </component>
+</project>

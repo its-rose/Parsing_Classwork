@@ -1,0 +1,22 @@
+body{
+    margin-left: 40px;
+    background-color: darkgray;
+}
+
+.lists {
+    background-color: aliceblue;
+  }
+
+#h6 {
+    font-size: 50px;
+    margin: 50px 50px 100px 0;
+}
+
+#first {
+    margin: 20px 0 20px 0;
+    padding: 10px 30px 20px 30px;
+    background-color: chartreuse;
+    border: 2px;
+    border-radius: 3px;
+    border-color: black;
+}

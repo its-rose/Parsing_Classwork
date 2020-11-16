@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../pythonParsingSTIgov/.idea/pythonParsingSTIgov.iml" filepath="$PROJECT_DIR$/../pythonParsingSTIgov/.idea/pythonParsingSTIgov.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" filepath="$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pythonProjectParsing.iml" filepath="$PROJECT_DIR$/.idea/pythonProjectParsing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonTelegrammBot/.idea/pythonTelegrammBot.iml" filepath="$PROJECT_DIR$/../pythonTelegrammBot/.idea/pythonTelegrammBot.iml" />
+    </modules>
+  </component>
+</project>
